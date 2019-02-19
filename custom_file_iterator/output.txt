@@ -1,0 +1,27 @@
+opening file
+['cmd1                        1']
+['cmd1                        5']
+['cmd1                        7']
+['cmd1                        11']
+['cmd1                        13']
+['cmd1                        15']
+['cmd1                        17']
+['cmd1                        19']
+['cmd1                        21']
+['cmd1                        23']
+['cmd1                        25']
+['cmd1                        27']
+['cmd1                        29']
+
+
+[group: line[2-4]['#cmd1                       3'], group: line[8-10]['#cmd1                       9']]
+closing file
+opening file
+['cmd1                       1', 'cmd2                       2']
+['cmd1                       4', 'cmd2                       5']
+['cmd1                       7', 'cmd2                       8']
+['cmd1                       13', 'cmd2                       14']
+['cmd1                       19', 'cmd2                       20']
+['cmd1                       28', 'cmd2                       29']
+['cmd1                       31', 'cmd2                       32']
+closing file
