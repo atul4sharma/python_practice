@@ -1,2 +1,2 @@
 # python_practice
-Repository for useful python scrips
+Repository for useful python scripts
